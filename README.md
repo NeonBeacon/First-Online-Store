@@ -1,3 +1,9 @@
+Here are the screenshots of the task critieria I had to follow to succesfully complete this task 
+![task criteria](https://github.com/NeonBeacon/First-Online-Store/assets/129503880/15a26dfd-2682-40e7-ab1e-5e62057a3fa8)
+![task criteria 2](https://github.com/NeonBeacon/First-Online-Store/assets/129503880/5aa07e09-7c1a-4ddd-824c-17f57da7333f)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
